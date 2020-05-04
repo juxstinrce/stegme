@@ -12,4 +12,6 @@ A hand-crafted method of steganography
 - Increments it by 1 if the bit is equal to 1, or decrements it by 1 if the bit is equal to 0
 - Finally, it displays the "key", which contains all the pixels that have been altered.
 
+`solve.py` needs the original image to extract hidden data.
+
 It is impossible to recover the data in the image without the key.
