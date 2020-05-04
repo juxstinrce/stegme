@@ -1,7 +1,7 @@
 # stegme
 A hand-crafted method of steganography
 
-`stegme.py` is the file that allows you to hide data in an image.ain<br>
+`stegme.py` is the file that allows you to hide data in an image.<br>
 `solve.py` is the file that allows you to retrieve the hidden data.<br>
 
 # How it works
